@@ -1,4 +1,4 @@
-<img src="imagem_fundo.png">
+<img src="imagem_pagina_cadastro.png">
 
 
 
